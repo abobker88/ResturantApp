@@ -1,6 +1,6 @@
 # project starter
 
-This is a blank [Laravel](https://laravel.com) project that will connect to any prismic.io repository. It uses the prismic.io PHP development kit, and provides a few helpers to integrate with a Laravel website.
+This is a Resturant project  [Laravel](https://laravel.com) project that will connect to . you can find postman files 
 
 ## Getting started
 
